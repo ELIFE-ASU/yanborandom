@@ -1,2 +1,1 @@
-# yanborandom
-Yanbo's random projects
+# Yanbo's Random Projects
